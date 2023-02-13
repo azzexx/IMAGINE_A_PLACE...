@@ -1,7 +1,7 @@
 # IMAGINE_A_PLACE...
 ...where you can handful of friends can spend time together. A place that makes it easy to talk every day and hang out more often.
 
-### Intended for intermediate to advanced audiences
+### An open source application like discord.
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
