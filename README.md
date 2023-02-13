@@ -3,10 +3,8 @@
 
 ### An open source application like discord.
 
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<h1 align="center">
-  A map
-</h1>
+<hr>
+## A map
 
 - [Home]
 - [Login]
