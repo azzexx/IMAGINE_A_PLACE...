@@ -1,15 +1,9 @@
 # IMAGINE_A_PLACE...
 ...where you can handful of friends can spend time together. A place that makes it easy to talk every day and hang out more often.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b2603b06-e161-4a8c-840b-7eb23676b6b0/deploy-status)](https://app.netlify.com/sites/gatsbyjs-netlify-cms-ultimate-portfolio/deploys)
 
 ### Intended for intermediate to advanced audiences
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.drteresavasquez.com">
-    <img alt="Dr. Teresa Vasquez" src="https://www.drteresavasquez.com/wp-content/uploads/2017/02/dr-teresa-vasquez.png" width="125"/>
-  </a>
-</p>
 <h1 align="center">
   Dr. Teresa Vasquez - Portfolio Pro App
 </h1>
